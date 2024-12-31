@@ -1,0 +1,10 @@
+name: KeyAllReloaded
+version: '1.0'
+main: dev.velora.keyAllReloaded.KeyAllReloaded
+api-version: '1.21'
+prefix: KeyAllReloaded
+authors: [ Ammar ]
+description: A all in one keyall plugin
+softdepend:
+  - PlaceholderAPI
+
